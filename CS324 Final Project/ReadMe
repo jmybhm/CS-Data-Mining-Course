@@ -1,1 +1,1 @@
-cs data mining course
+For the final project in the course, I investigated FANTOM5 research data, a large public database with information on gene and enhancer activities in all types of cells in the human body. I used k-means clustering and hierarchical clustering methods to cluster enhancers based on a enhancer's chromosome location, length, and the activity level (measured by number of tissue types an enhancer is active in). 
